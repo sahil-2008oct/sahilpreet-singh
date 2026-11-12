@@ -1,6 +1,6 @@
 
 // ===================================
-// VIVEK PORTFOLIO - script.js
+// SAHIL PORTFOLIO - script.js
 // ===================================
 
 // Mobile Navigation
